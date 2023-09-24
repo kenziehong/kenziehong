@@ -1,4 +1,4 @@
-[![MasterHead](./images/github-header_04.jpg "Data Scientist portfolio!")](https://docs.google.com/document/d/1xEp9OLR6-Pdo3Hp7sOFTDQDF5Gey7kgKdEajv-vTjtw/edit?usp=sharing)
+[![MasterHead](./images/github-header_04.jpg "Data Scientist portfolio!")](https://github.com/kenziehong/kenziehong/raw/main/Dinh%20Thi%20Anh%20Hong_NLP%20Engineer.doc)
 <!-- <h1 align="center">Hi 👋, I'm Trường Nguyễn</h1>
 <h3 align="center">A frontend developer from Viet Nam (HoChiMinh)</h3> -->
 
@@ -37,7 +37,7 @@
 
 📫 **dinhthianhhong.uel@gmail.com**
 
-📄 [**My CV**](https://docs.google.com/document/d/1xEp9OLR6-Pdo3Hp7sOFTDQDF5Gey7kgKdEajv-vTjtw/edit?usp=sharing)
+📄 [**My CV**](https://github.com/kenziehong/kenziehong/raw/main/Dinh%20Thi%20Anh%20Hong_NLP%20Engineer.doc)
 
 📞 My phone number **+84 (33) 690-3927**
 
